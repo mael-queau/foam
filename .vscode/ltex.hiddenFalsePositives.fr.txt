@@ -1,0 +1,1 @@
+{"rule":"AUX_ETRE_VCONJ","sentence":"^\\QClaire :\nJe ne te juge pas, je dis juste que la manière dont tu es actuellement ne fonctionne pas avec le groupe\\E$"}
