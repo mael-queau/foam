@@ -27,4 +27,5 @@
   "pasteImage.showFilePathConfirmInputBox": true,
   "prettier.singleQuote": false,
   "gitdoc.enabled": true,
+  "ltex.language": "fr"
 }
