@@ -7,3 +7,4 @@
 - [x] Ajouter des informations dans le graphique donut
 - [x] Retirer résumé dans la vue par date
 - [ ] Ouvrir automatiquement seulement le premier accordion
+- [ ] Afficher plus d'informations complémentaires à côté du graphique
